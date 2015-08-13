@@ -1,0 +1,980 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Desenvolvimento Inicial\n"
+"POT-Creation-Date: 2015-08-11 23:22+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: Fernando <EMAIL@ADDRESS>\n"
+"Language-Team: Português do Brasil <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AlternativesController.php:52;78
+msgid "The alternative has been saved."
+msgstr "A alternativa foi salva!"
+
+#: Controller/AlternativesController.php:55;81
+msgid "The alternative could not be saved. Please, try again."
+msgstr "A alternativa não pode ser salva. Por favor, tente novamente."
+
+#: Controller/AlternativesController.php:101
+msgid "The alternative has been deleted."
+msgstr "A alternativa foi excluída."
+
+#: Controller/AlternativesController.php:103
+msgid "The alternative could not be deleted. Please, try again."
+msgstr "A alternativa não pode ser excluída. Por favor, tente novamente."
+
+#: Controller/AlternativesQuestionsController.php:55;82
+msgid "The alternatives question has been saved."
+msgstr "Alternativa(s) salva(s)!"
+
+#: Controller/AlternativesQuestionsController.php:58;85
+msgid "The alternatives question could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AlternativesQuestionsController.php:106
+msgid "The alternatives question has been deleted."
+msgstr ""
+
+#: Controller/AlternativesQuestionsController.php:108
+msgid "The alternatives question could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/AnswersController.php:55;84
+msgid "The answer has been saved."
+msgstr "A resposta foi salva!"
+
+#: Controller/AnswersController.php:58;87
+msgid "The answer could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AnswersController.php:110
+msgid "The answer has been deleted."
+msgstr ""
+
+#: Controller/AnswersController.php:112
+msgid "The answer could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DepartmentsController.php:52;77
+msgid "The department has been saved."
+msgstr "O departamento foi salvo!"
+
+#: Controller/DepartmentsController.php:55;80
+msgid "The department could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DepartmentsController.php:99
+msgid "The department has been deleted."
+msgstr ""
+
+#: Controller/DepartmentsController.php:101
+msgid "The department could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EvaluationsController.php:55;82
+msgid "The evaluation has been saved."
+msgstr "A avaliação foi salva!"
+
+#: Controller/EvaluationsController.php:58;85
+msgid "The evaluation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EvaluationsController.php:106
+msgid "The evaluation has been deleted."
+msgstr ""
+
+#: Controller/EvaluationsController.php:108
+msgid "The evaluation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EvaluationsUsersController.php:55;82
+msgid "The evaluations user has been saved."
+msgstr "Avaliação(ões) salva(s)!"
+
+#: Controller/EvaluationsUsersController.php:58;85
+msgid "The evaluations user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EvaluationsUsersController.php:106
+msgid "The evaluations user has been deleted."
+msgstr ""
+
+#: Controller/EvaluationsUsersController.php:108
+msgid "The evaluations user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:52;78
+msgid "The questionnaire has been saved."
+msgstr "O questionário foi salvo!"
+
+#: Controller/QuestionnairesController.php:55;81
+msgid "The questionnaire could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:101
+msgid "The questionnaire has been deleted."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:103
+msgid "The questionnaire could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuestionnairesQuestionsController.php:55;82
+msgid "The questionnaires question has been saved."
+msgstr ""
+
+#: Controller/QuestionnairesQuestionsController.php:58;85
+msgid "The questionnaires question could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuestionnairesQuestionsController.php:106
+msgid "The questionnaires question has been deleted."
+msgstr ""
+
+#: Controller/QuestionnairesQuestionsController.php:108
+msgid "The questionnaires question could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuestionsController.php:52;79
+msgid "The question has been saved."
+msgstr "A questão foi salva!"
+
+#: Controller/QuestionsController.php:55;82
+msgid "The question could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuestionsController.php:103
+msgid "The question has been deleted."
+msgstr ""
+
+#: Controller/QuestionsController.php:105
+msgid "The question could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:55;82
+msgid "The user has been saved."
+msgstr "O(a) usuário(a) foi salvo(a)!"
+
+#: Controller/UsersController.php:58;85
+msgid "The user could not be saved. Please, try again."
+msgstr "O(a) usuário(a) não pode ser salvo(a). Por favor, tente novamente."
+
+#: Controller/UsersController.php:106
+msgid "The user has been deleted."
+msgstr "O(a) usuário(a) foi excluído(a)."
+
+#: Controller/UsersController.php:108
+msgid "The user could not be deleted. Please, try again."
+msgstr "O(a) usuário(a) não pode ser excluído(a). Por favor, tente novamente."
+
+#: Template/Alternatives/add.ctp:5
+#: Template/Alternatives/edit.ctp:12
+#: Template/Alternatives/view.ctp:7
+#: Template/AlternativesQuestions/add.ctp:8
+#: Template/AlternativesQuestions/edit.ctp:15
+#: Template/AlternativesQuestions/index.ctp:8
+#: Template/AlternativesQuestions/view.ctp:11
+#: Template/Answers/add.ctp:10
+#: Template/Answers/edit.ctp:17
+#: Template/Answers/index.ctp:10
+#: Template/Answers/view.ctp:13
+#: Template/Questions/add.ctp:8
+#: Template/Questions/edit.ctp:15
+#: Template/Questions/index.ctp:8
+#: Template/Questions/view.ctp:11
+msgid "List Alternatives"
+msgstr "Alternativas"
+
+#: Template/Alternatives/add.ctp:6
+#: Template/Alternatives/edit.ctp:13
+#: Template/Alternatives/index.ctp:6
+#: Template/Alternatives/view.ctp:9
+#: Template/Answers/add.ctp:5
+#: Template/Answers/edit.ctp:12
+#: Template/Answers/view.ctp:7
+#: Template/Questions/add.ctp:6
+#: Template/Questions/edit.ctp:13
+#: Template/Questions/index.ctp:6
+#: Template/Questions/view.ctp:9
+msgid "List Answers"
+msgstr "Respostas"
+
+#: Template/Alternatives/add.ctp:7
+#: Template/Alternatives/edit.ctp:14
+#: Template/Alternatives/index.ctp:7
+#: Template/Alternatives/view.ctp:10
+#: Template/Answers/index.ctp:5
+#: Template/Answers/view.ctp:8
+#: Template/Questions/add.ctp:7
+#: Template/Questions/edit.ctp:14
+#: Template/Questions/index.ctp:7
+#: Template/Questions/view.ctp:10
+msgid "New Answer"
+msgstr "Nova Resposta"
+
+#: Template/Alternatives/add.ctp:8
+#: Template/Alternatives/edit.ctp:15
+#: Template/Alternatives/index.ctp:8
+#: Template/Alternatives/view.ctp:11
+#: Template/AlternativesQuestions/add.ctp:6
+#: Template/AlternativesQuestions/edit.ctp:13
+#: Template/AlternativesQuestions/index.ctp:6
+#: Template/AlternativesQuestions/view.ctp:9
+#: Template/Answers/add.ctp:8
+#: Template/Answers/edit.ctp:15
+#: Template/Answers/index.ctp:8
+#: Template/Answers/view.ctp:11
+#: Template/Questionnaires/add.ctp:8
+#: Template/Questionnaires/edit.ctp:15
+#: Template/Questionnaires/index.ctp:8
+#: Template/Questionnaires/view.ctp:11
+#: Template/QuestionnairesQuestions/add.ctp:8
+#: Template/QuestionnairesQuestions/edit.ctp:15
+#: Template/QuestionnairesQuestions/index.ctp:8
+#: Template/QuestionnairesQuestions/view.ctp:11
+#: Template/Questions/add.ctp:5
+#: Template/Questions/edit.ctp:12
+#: Template/Questions/view.ctp:7
+msgid "List Questions"
+msgstr "Questões"
+
+#: Template/Alternatives/add.ctp:9
+#: Template/Alternatives/edit.ctp:16
+#: Template/Alternatives/index.ctp:9
+#: Template/Alternatives/view.ctp:12
+#: Template/AlternativesQuestions/add.ctp:7
+#: Template/AlternativesQuestions/edit.ctp:14
+#: Template/AlternativesQuestions/index.ctp:7
+#: Template/AlternativesQuestions/view.ctp:10
+#: Template/Answers/add.ctp:9
+#: Template/Answers/edit.ctp:16
+#: Template/Answers/index.ctp:9
+#: Template/Answers/view.ctp:12
+#: Template/Questionnaires/add.ctp:9
+#: Template/Questionnaires/edit.ctp:16
+#: Template/Questionnaires/index.ctp:9
+#: Template/Questionnaires/view.ctp:12
+#: Template/QuestionnairesQuestions/add.ctp:9
+#: Template/QuestionnairesQuestions/edit.ctp:16
+#: Template/QuestionnairesQuestions/index.ctp:9
+#: Template/QuestionnairesQuestions/view.ctp:12
+#: Template/Questions/index.ctp:5
+#: Template/Questions/view.ctp:8
+msgid "New Question"
+msgstr "Nova Questão"
+
+#: Template/Alternatives/add.ctp:14
+#: Template/AlternativesQuestions/add.ctp:14
+#: Template/Answers/add.ctp:18
+#: Template/Departments/add.ctp:12
+#: Template/Evaluations/add.ctp:14
+#: Template/EvaluationsUsers/add.ctp:14
+#: Template/Questionnaires/add.ctp:14
+#: Template/QuestionnairesQuestions/add.ctp:14
+#: Template/Questions/add.ctp:16
+#: Template/Users/add.ctp:15
+msgid "Add {0}"
+msgstr "Adicionar {0}"
+
+#: Template/Alternatives/add.ctp:20
+#: Template/Alternatives/edit.ctp:27
+#: Template/AlternativesQuestions/add.ctp:18
+#: Template/AlternativesQuestions/edit.ctp:25
+#: Template/Answers/add.ctp:27
+#: Template/Answers/edit.ctp:34
+#: Template/Departments/add.ctp:17
+#: Template/Departments/edit.ctp:24
+#: Template/Evaluations/add.ctp:24
+#: Template/Evaluations/edit.ctp:31
+#: Template/EvaluationsUsers/add.ctp:20
+#: Template/EvaluationsUsers/edit.ctp:27
+#: Template/Questionnaires/add.ctp:21
+#: Template/Questionnaires/edit.ctp:28
+#: Template/QuestionnairesQuestions/add.ctp:18
+#: Template/QuestionnairesQuestions/edit.ctp:25
+#: Template/Questions/add.ctp:23
+#: Template/Questions/edit.ctp:30
+#: Template/Users/add.ctp:30
+#: Template/Users/edit.ctp:37
+msgid "Submit"
+msgstr "Enviar"
+
+#: Template/Alternatives/edit.ctp:7
+#: Template/Alternatives/index.ctp:29
+#: Template/Alternatives/view.ctp:55;84
+#: Template/AlternativesQuestions/edit.ctp:7
+#: Template/AlternativesQuestions/index.ctp:33
+#: Template/Answers/edit.ctp:7
+#: Template/Answers/index.ctp:49
+#: Template/Departments/edit.ctp:7
+#: Template/Departments/index.ctp:27
+#: Template/Departments/view.ctp:61
+#: Template/Evaluations/edit.ctp:7
+#: Template/Evaluations/index.ctp:37
+#: Template/Evaluations/view.ctp:77
+#: Template/EvaluationsUsers/edit.ctp:7
+#: Template/EvaluationsUsers/index.ctp:35
+#: Template/Questionnaires/edit.ctp:7
+#: Template/Questionnaires/index.ctp:29
+#: Template/Questionnaires/view.ctp:61;90
+#: Template/QuestionnairesQuestions/edit.ctp:7
+#: Template/QuestionnairesQuestions/index.ctp:33
+#: Template/Questions/edit.ctp:7
+#: Template/Questions/index.ctp:29
+#: Template/Questions/view.ctp:59;88;119
+#: Template/Users/edit.ctp:7
+#: Template/Users/index.ctp:41
+#: Template/Users/view.ctp:81;118
+msgid "Delete"
+msgstr "Excluir"
+
+#: Template/Alternatives/edit.ctp:9
+#: Template/Alternatives/index.ctp:29
+#: Template/Alternatives/view.ctp:6;55;84
+#: Template/AlternativesQuestions/edit.ctp:9
+#: Template/AlternativesQuestions/index.ctp:33
+#: Template/AlternativesQuestions/view.ctp:6
+#: Template/Answers/edit.ctp:9
+#: Template/Answers/index.ctp:49
+#: Template/Answers/view.ctp:6
+#: Template/Departments/edit.ctp:9
+#: Template/Departments/index.ctp:27
+#: Template/Departments/view.ctp:6;61
+#: Template/Evaluations/edit.ctp:9
+#: Template/Evaluations/index.ctp:37
+#: Template/Evaluations/view.ctp:6;77
+#: Template/EvaluationsUsers/edit.ctp:9
+#: Template/EvaluationsUsers/index.ctp:35
+#: Template/EvaluationsUsers/view.ctp:6
+#: Template/Questionnaires/edit.ctp:9
+#: Template/Questionnaires/index.ctp:29
+#: Template/Questionnaires/view.ctp:6;61;90
+#: Template/QuestionnairesQuestions/edit.ctp:9
+#: Template/QuestionnairesQuestions/index.ctp:33
+#: Template/QuestionnairesQuestions/view.ctp:6
+#: Template/Questions/edit.ctp:9
+#: Template/Questions/index.ctp:29
+#: Template/Questions/view.ctp:6;59;88;119
+#: Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:41
+#: Template/Users/view.ctp:6;81;118
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Tem certeza que deseja excluir # {0}?"
+
+#: Template/Alternatives/edit.ctp:21
+#: Template/AlternativesQuestions/edit.ctp:21
+#: Template/Answers/edit.ctp:25
+#: Template/Departments/edit.ctp:19
+#: Template/Evaluations/edit.ctp:21
+#: Template/EvaluationsUsers/edit.ctp:21
+#: Template/Questionnaires/edit.ctp:21
+#: Template/QuestionnairesQuestions/edit.ctp:21
+#: Template/Questions/edit.ctp:23
+#: Template/Users/edit.ctp:23
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+#: Template/Alternatives/index.ctp:5
+#: Template/Alternatives/view.ctp:8
+#: Template/AlternativesQuestions/add.ctp:9
+#: Template/AlternativesQuestions/edit.ctp:16
+#: Template/AlternativesQuestions/index.ctp:9
+#: Template/AlternativesQuestions/view.ctp:12
+#: Template/Answers/add.ctp:11
+#: Template/Answers/edit.ctp:18
+#: Template/Answers/index.ctp:11
+#: Template/Answers/view.ctp:14
+#: Template/Questions/add.ctp:9
+#: Template/Questions/edit.ctp:16
+#: Template/Questions/index.ctp:9
+#: Template/Questions/view.ctp:12
+msgid "New Alternative"
+msgstr "Nova Alternativa"
+
+#: Template/Alternatives/index.ctp:18
+#: Template/Alternatives/view.ctp:40;73
+#: Template/AlternativesQuestions/index.ctp:18
+#: Template/Answers/index.ctp:26
+#: Template/Departments/index.ctp:16
+#: Template/Departments/view.ctp:42
+#: Template/Evaluations/index.ctp:21
+#: Template/Evaluations/view.ctp:58
+#: Template/EvaluationsUsers/index.ctp:19
+#: Template/Questionnaires/index.ctp:18
+#: Template/Questionnaires/view.ctp:46;79
+#: Template/QuestionnairesQuestions/index.ctp:18
+#: Template/Questions/index.ctp:19
+#: Template/Questions/view.ctp:44;77;107
+#: Template/Users/index.ctp:25
+#: Template/Users/view.ctp:62;103
+msgid "Actions"
+msgstr "Ações"
+
+#: Template/Alternatives/index.ctp:27
+#: Template/Alternatives/view.ctp:53;82
+#: Template/AlternativesQuestions/index.ctp:31
+#: Template/Answers/index.ctp:47
+#: Template/Departments/index.ctp:25
+#: Template/Departments/view.ctp:59
+#: Template/Evaluations/index.ctp:35
+#: Template/Evaluations/view.ctp:75
+#: Template/EvaluationsUsers/index.ctp:33
+#: Template/Questionnaires/index.ctp:27
+#: Template/Questionnaires/view.ctp:59;88
+#: Template/QuestionnairesQuestions/index.ctp:31
+#: Template/Questions/index.ctp:27
+#: Template/Questions/view.ctp:57;86;117
+#: Template/Users/index.ctp:39
+#: Template/Users/view.ctp:79;116
+msgid "View"
+msgstr "Visualizar"
+
+#: Template/Alternatives/index.ctp:28
+#: Template/Alternatives/view.ctp:54;83
+#: Template/AlternativesQuestions/index.ctp:32
+#: Template/Answers/index.ctp:48
+#: Template/Departments/index.ctp:26
+#: Template/Departments/view.ctp:60
+#: Template/Evaluations/index.ctp:36
+#: Template/Evaluations/view.ctp:76
+#: Template/EvaluationsUsers/index.ctp:34
+#: Template/Questionnaires/index.ctp:28
+#: Template/Questionnaires/view.ctp:60;89
+#: Template/QuestionnairesQuestions/index.ctp:32
+#: Template/Questions/index.ctp:28
+#: Template/Questions/view.ctp:58;87;118
+#: Template/Users/index.ctp:40
+#: Template/Users/view.ctp:80;117
+msgid "Edit"
+msgstr "Editar"
+
+#: Template/Alternatives/index.ctp:38
+#: Template/AlternativesQuestions/index.ctp:42
+#: Template/Answers/index.ctp:58
+#: Template/Departments/index.ctp:36
+#: Template/Evaluations/index.ctp:46
+#: Template/EvaluationsUsers/index.ctp:44
+#: Template/Questionnaires/index.ctp:38
+#: Template/QuestionnairesQuestions/index.ctp:42
+#: Template/Questions/index.ctp:38
+#: Template/Users/index.ctp:50
+msgid "previous"
+msgstr "anterior"
+
+#: Template/Alternatives/index.ctp:40
+#: Template/AlternativesQuestions/index.ctp:44
+#: Template/Answers/index.ctp:60
+#: Template/Departments/index.ctp:38
+#: Template/Evaluations/index.ctp:48
+#: Template/EvaluationsUsers/index.ctp:46
+#: Template/Questionnaires/index.ctp:40
+#: Template/QuestionnairesQuestions/index.ctp:44
+#: Template/Questions/index.ctp:40
+#: Template/Users/index.ctp:52
+msgid "next"
+msgstr "próximo"
+
+#: Template/Alternatives/view.ctp:5
+msgid "Edit Alternative"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:6
+msgid "Delete Alternative"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:19
+#: Template/Questions/view.ctp:76
+msgid "Description"
+msgstr "Descrição"
+
+#: Template/Alternatives/view.ctp:23;34;71
+#: Template/Answers/view.ctp:33
+#: Template/Departments/view.ctp:21;32
+#: Template/Evaluations/view.ctp:25;48
+#: Template/EvaluationsUsers/view.ctp:25
+#: Template/Questionnaires/view.ctp:23;40;77
+#: Template/Questions/view.ctp:21;38;75;104
+#: Template/Users/view.ctp:39;52;97
+msgid "Id"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:29
+#: Template/Questions/view.ctp:33
+msgid "Related Answers"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:35
+#: Template/Questions/view.ctp:39
+msgid "Evaluation User Id"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:36
+#: Template/Questions/view.ctp:40
+msgid "Question Id"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:37
+#: Template/Questions/view.ctp:41
+msgid "Alternative Id"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:38
+#: Template/Questions/view.ctp:42
+msgid "Users Id"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:39
+#: Template/Answers/view.ctp:37
+#: Template/Questions/view.ctp:43
+msgid "Answered In"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:66
+#: Template/Questionnaires/view.ctp:72
+msgid "Related Questions"
+msgstr ""
+
+#: Template/Alternatives/view.ctp:72
+#: Template/Questionnaires/view.ctp:78
+#: Template/Questions/view.ctp:27
+msgid "Enunciation"
+msgstr "Enunciado"
+
+#: Template/AlternativesQuestions/add.ctp:5
+#: Template/AlternativesQuestions/edit.ctp:12
+#: Template/AlternativesQuestions/view.ctp:7
+msgid "List Alternatives Questions"
+msgstr ""
+
+#: Template/AlternativesQuestions/index.ctp:5
+#: Template/AlternativesQuestions/view.ctp:8
+msgid "New Alternatives Question"
+msgstr ""
+
+#: Template/AlternativesQuestions/view.ctp:5
+msgid "Edit Alternatives Question"
+msgstr ""
+
+#: Template/AlternativesQuestions/view.ctp:6
+msgid "Delete Alternatives Question"
+msgstr ""
+
+#: Template/AlternativesQuestions/view.ctp:19
+#: Template/Answers/view.ctp:25
+#: Template/QuestionnairesQuestions/view.ctp:21
+msgid "Question"
+msgstr "Questão"
+
+#: Template/AlternativesQuestions/view.ctp:21
+#: Template/Answers/view.ctp:27
+msgid "Alternative"
+msgstr "Alternativa"
+
+#: Template/Answers/add.ctp:6
+#: Template/Answers/edit.ctp:13
+#: Template/Answers/view.ctp:9
+#: Template/EvaluationsUsers/add.ctp:5
+#: Template/EvaluationsUsers/edit.ctp:12
+#: Template/EvaluationsUsers/view.ctp:7
+msgid "List Evaluations Users"
+msgstr ""
+
+#: Template/Answers/add.ctp:7
+#: Template/Answers/edit.ctp:14
+#: Template/Answers/index.ctp:7
+#: Template/Answers/view.ctp:10
+#: Template/EvaluationsUsers/index.ctp:5
+#: Template/EvaluationsUsers/view.ctp:8
+msgid "New Evaluations User"
+msgstr ""
+
+#: Template/Answers/add.ctp:12
+#: Template/Answers/edit.ctp:19
+#: Template/Answers/index.ctp:12
+#: Template/Answers/view.ctp:15
+#: Template/Departments/add.ctp:6
+#: Template/Departments/edit.ctp:13
+#: Template/Departments/index.ctp:6
+#: Template/Departments/view.ctp:9
+#: Template/Evaluations/add.ctp:8
+#: Template/Evaluations/edit.ctp:15
+#: Template/Evaluations/index.ctp:8
+#: Template/Evaluations/view.ctp:11
+#: Template/EvaluationsUsers/add.ctp:6
+#: Template/EvaluationsUsers/edit.ctp:13
+#: Template/EvaluationsUsers/index.ctp:6
+#: Template/EvaluationsUsers/view.ctp:9
+#: Template/Users/add.ctp:5;8
+#: Template/Users/edit.ctp:12;15
+#: Template/Users/index.ctp:8
+#: Template/Users/view.ctp:7;11
+msgid "List Users"
+msgstr "Usuários"
+
+#: Template/Answers/add.ctp:13
+#: Template/Answers/edit.ctp:20
+#: Template/Answers/index.ctp:13
+#: Template/Answers/view.ctp:16
+#: Template/Departments/add.ctp:7
+#: Template/Departments/edit.ctp:14
+#: Template/Departments/index.ctp:7
+#: Template/Departments/view.ctp:10
+#: Template/Evaluations/add.ctp:9
+#: Template/Evaluations/edit.ctp:16
+#: Template/Evaluations/index.ctp:9
+#: Template/Evaluations/view.ctp:12
+#: Template/EvaluationsUsers/add.ctp:7
+#: Template/EvaluationsUsers/edit.ctp:14
+#: Template/EvaluationsUsers/index.ctp:7
+#: Template/EvaluationsUsers/view.ctp:10
+#: Template/Users/edit.ctp:16
+#: Template/Users/index.ctp:5;9
+#: Template/Users/view.ctp:8;12
+msgid "New User"
+msgstr "Novo Usuário"
+
+#: Template/Answers/index.ctp:6
+msgid "List EvaluationsUsers"
+msgstr ""
+
+#: Template/Answers/view.ctp:5
+msgid "Edit Answer"
+msgstr "Editar Resposta"
+
+#: Template/Answers/view.ctp:6
+msgid "Delete Answer"
+msgstr "Excluir Resposta"
+
+#: Template/Answers/view.ctp:23
+msgid "Evaluations User"
+msgstr ""
+
+#: Template/Answers/view.ctp:29
+#: Template/EvaluationsUsers/view.ctp:19
+msgid "User"
+msgstr "Usuário"
+
+#: Template/Departments/add.ctp:5
+#: Template/Departments/edit.ctp:12
+#: Template/Departments/view.ctp:7
+#: Template/Users/add.ctp:6
+#: Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:6
+#: Template/Users/view.ctp:9
+msgid "List Departments"
+msgstr "Departamentos"
+
+#: Template/Departments/index.ctp:5
+#: Template/Departments/view.ctp:8
+#: Template/Users/add.ctp:7
+#: Template/Users/edit.ctp:14
+#: Template/Users/index.ctp:7
+#: Template/Users/view.ctp:10
+msgid "New Department"
+msgstr "Novo Departamento"
+
+#: Template/Departments/view.ctp:5
+msgid "Edit Department"
+msgstr "Editar Departamento"
+
+#: Template/Departments/view.ctp:6
+msgid "Delete Department"
+msgstr "Excluir Departamento"
+
+#: Template/Departments/view.ctp:17;36
+#: Template/Evaluations/view.ctp:19;52
+#: Template/Questionnaires/view.ctp:19;41
+#: Template/Questions/view.ctp:105
+#: Template/Users/view.ctp:27;56;98
+msgid "Name"
+msgstr "Nome"
+
+#: Template/Departments/view.ctp:27
+#: Template/Evaluations/view.ctp:43
+#: Template/Users/view.ctp:47
+msgid "Related Users"
+msgstr ""
+
+#: Template/Departments/view.ctp:33
+#: Template/Evaluations/view.ctp:49
+#: Template/Users/view.ctp:21;53
+msgid "Username"
+msgstr "Nome do Usuário"
+
+#: Template/Departments/view.ctp:34
+#: Template/Evaluations/view.ctp:50
+#: Template/Users/view.ctp:23;54
+msgid "Password"
+msgstr "Senha"
+
+#: Template/Departments/view.ctp:35
+#: Template/Evaluations/view.ctp:51
+#: Template/Users/view.ctp:25;55
+msgid "Role"
+msgstr "Papel"
+
+#: Template/Departments/view.ctp:37
+#: Template/Evaluations/view.ctp:53
+#: Template/Users/view.ctp:29;57
+msgid "Cpf"
+msgstr ""
+
+#: Template/Departments/view.ctp:38
+#: Template/Evaluations/view.ctp:54
+#: Template/Users/view.ctp:31;58
+msgid "Email"
+msgstr ""
+
+#: Template/Departments/view.ctp:39
+#: Template/Evaluations/view.ctp:55
+#: Template/Users/view.ctp:59
+msgid "Department Id"
+msgstr ""
+
+#: Template/Departments/view.ctp:40
+#: Template/Evaluations/view.ctp:56
+#: Template/Users/view.ctp:35;60
+msgid "Image Path"
+msgstr "Caminho da Imagem"
+
+#: Template/Departments/view.ctp:41
+#: Template/Evaluations/view.ctp:57
+#: Template/Users/view.ctp:41;61
+msgid "User Id"
+msgstr ""
+
+#: Template/Evaluations/add.ctp:5
+#: Template/Evaluations/edit.ctp:12
+#: Template/Evaluations/view.ctp:7
+#: Template/EvaluationsUsers/add.ctp:8
+#: Template/EvaluationsUsers/edit.ctp:15
+#: Template/EvaluationsUsers/index.ctp:8
+#: Template/EvaluationsUsers/view.ctp:11
+#: Template/Questionnaires/add.ctp:6
+#: Template/Questionnaires/edit.ctp:13
+#: Template/Questionnaires/index.ctp:6
+#: Template/Questionnaires/view.ctp:9
+#: Template/Users/add.ctp:9
+#: Template/Users/edit.ctp:17
+#: Template/Users/index.ctp:10
+#: Template/Users/view.ctp:13
+msgid "List Evaluations"
+msgstr ""
+
+#: Template/Evaluations/add.ctp:6
+#: Template/Evaluations/edit.ctp:13
+#: Template/Evaluations/index.ctp:6
+#: Template/Evaluations/view.ctp:9
+#: Template/Questionnaires/add.ctp:5
+#: Template/Questionnaires/edit.ctp:12
+#: Template/Questionnaires/view.ctp:7
+#: Template/QuestionnairesQuestions/add.ctp:6
+#: Template/QuestionnairesQuestions/edit.ctp:13
+#: Template/QuestionnairesQuestions/index.ctp:6
+#: Template/QuestionnairesQuestions/view.ctp:9
+#: Template/Questions/add.ctp:10
+#: Template/Questions/edit.ctp:17
+#: Template/Questions/index.ctp:10
+#: Template/Questions/view.ctp:13
+msgid "List Questionnaires"
+msgstr "Questionários"
+
+#: Template/Evaluations/add.ctp:7
+#: Template/Evaluations/edit.ctp:14
+#: Template/Evaluations/index.ctp:7
+#: Template/Evaluations/view.ctp:10
+#: Template/Questionnaires/index.ctp:5
+#: Template/Questionnaires/view.ctp:8
+#: Template/QuestionnairesQuestions/add.ctp:7
+#: Template/QuestionnairesQuestions/edit.ctp:14
+#: Template/QuestionnairesQuestions/index.ctp:7
+#: Template/QuestionnairesQuestions/view.ctp:10
+#: Template/Questions/add.ctp:11
+#: Template/Questions/edit.ctp:18
+#: Template/Questions/index.ctp:11
+#: Template/Questions/view.ctp:14
+msgid "New Questionnaire"
+msgstr "Novo Questionários"
+
+#: Template/Evaluations/index.ctp:5
+#: Template/Evaluations/view.ctp:8
+#: Template/EvaluationsUsers/add.ctp:9
+#: Template/EvaluationsUsers/edit.ctp:16
+#: Template/EvaluationsUsers/index.ctp:9
+#: Template/EvaluationsUsers/view.ctp:12
+#: Template/Questionnaires/add.ctp:7
+#: Template/Questionnaires/edit.ctp:14
+#: Template/Questionnaires/index.ctp:7
+#: Template/Questionnaires/view.ctp:10
+#: Template/Users/add.ctp:10
+#: Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:11
+#: Template/Users/view.ctp:14
+msgid "New Evaluation"
+msgstr "Nova Avaliação"
+
+#: Template/Evaluations/view.ctp:5
+msgid "Edit Evaluation"
+msgstr "Editar Avaliação"
+
+#: Template/Evaluations/view.ctp:6
+msgid "Delete Evaluation"
+msgstr "Excluir Avaliação"
+
+#: Template/Evaluations/view.ctp:21
+#: Template/QuestionnairesQuestions/view.ctp:19
+msgid "Questionnaire"
+msgstr "Questionário"
+
+#: Template/Evaluations/view.ctp:29
+#: Template/Questionnaires/view.ctp:44
+#: Template/Users/view.ctp:101
+msgid "Start"
+msgstr "Início"
+
+#: Template/Evaluations/view.ctp:31
+#: Template/Questionnaires/view.ctp:45
+#: Template/Users/view.ctp:102
+msgid "End"
+msgstr "Fim"
+
+#: Template/Evaluations/view.ctp:37
+#: Template/Questionnaires/view.ctp:29;42
+#: Template/Questions/view.ctp:106
+#: Template/Users/view.ctp:99
+msgid "Details"
+msgstr "Detalhes"
+
+#: Template/EvaluationsUsers/view.ctp:5
+msgid "Edit Evaluations User"
+msgstr ""
+
+#: Template/EvaluationsUsers/view.ctp:6
+msgid "Delete Evaluations User"
+msgstr ""
+
+#: Template/EvaluationsUsers/view.ctp:21
+msgid "Evaluation"
+msgstr "Avaliação"
+
+#: Template/Questionnaires/view.ctp:5
+msgid "Edit Questionnaire"
+msgstr ""
+
+#: Template/Questionnaires/view.ctp:6
+msgid "Delete Questionnaire"
+msgstr ""
+
+#: Template/Questionnaires/view.ctp:35
+#: Template/Users/view.ctp:92
+msgid "Related Evaluations"
+msgstr ""
+
+#: Template/Questionnaires/view.ctp:43
+#: Template/Users/view.ctp:100
+msgid "Questionnaire Id"
+msgstr ""
+
+#: Template/QuestionnairesQuestions/add.ctp:5
+#: Template/QuestionnairesQuestions/edit.ctp:12
+#: Template/QuestionnairesQuestions/view.ctp:7
+msgid "List Questionnaires Questions"
+msgstr ""
+
+#: Template/QuestionnairesQuestions/index.ctp:5
+#: Template/QuestionnairesQuestions/view.ctp:8
+msgid "New Questionnaires Question"
+msgstr ""
+
+#: Template/QuestionnairesQuestions/view.ctp:5
+msgid "Edit Questionnaires Question"
+msgstr ""
+
+#: Template/QuestionnairesQuestions/view.ctp:6
+msgid "Delete Questionnaires Question"
+msgstr ""
+
+#: Template/Questions/view.ctp:5
+msgid "Edit Question"
+msgstr "Editar Questão"
+
+#: Template/Questions/view.ctp:6
+msgid "Delete Question"
+msgstr "Excluir Questão"
+
+#: Template/Questions/view.ctp:70
+msgid "Related Alternatives"
+msgstr "Alternativas Relacionadas"
+
+#: Template/Questions/view.ctp:99
+msgid "Related Questionnaires"
+msgstr "Questionários Relacionados"
+
+#: Template/Users/view.ctp:5
+msgid "Edit User"
+msgstr "Editar Usuário"
+
+#: Template/Users/view.ctp:6
+msgid "Delete User"
+msgstr "Excluir Usuário"
+
+#: Template/Users/view.ctp:33
+msgid "Department"
+msgstr "Departamento"
+
+#: Template/Error/error400.ctp:33
+#: Template/Error/error500.ctp:35
+msgid "Error"
+msgstr "Erro"
+
+#: Template/Error/error400.ctp:35
+msgid "The requested address %s was not found on this server."
+msgstr "O endereço %s não foi encontrado neste servidor."
+
+#: Template/Error/error500.ctp:33
+msgid "An Internal Error Has Occurred"
+msgstr "Ocorreu um erro interno"
+
+# Extra Translations
+msgid "List"
+msgstr "Lista"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Alternatives"
+msgstr "Alternativas"
+
+msgid "Answers"
+msgstr "Respostas"
+
+msgid "Departments"
+msgstr "Departamentos"
+
+msgid "Questionnaires"
+msgstr "Questionários"
+
+msgid "Questions"
+msgstr "Questões"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "Evaluations"
+msgstr "Avaliações"
+
+msgid "Reports"
+msgstr "Relatórios"
+
+msgid "Administrative"
+msgstr "Administrativo"
+
+msgid "Help"
+msgstr "Ajuda"

@@ -1,0 +1,100 @@
+2015-08-12 15:37:16 Error: [LogicException] You cannot extend an element which does not exist (C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\plugins\SAD360\src\Template\Bake\Element\../Layout/TwitterBootstrap/dashboard.ctp).
+Stack Trace:
+#0 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\tmp\Bake-Element-form-ctp.php(10): Cake\View\View->extend('../Layout/Twitt...')
+#1 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(179): include('C:\\Users\\Fernan...')
+#2 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(788): Bake\View\BakeView->_evaluate('C:\\Users\\Fernan...', Array)
+#3 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(1155): Cake\View\View->_render('C:\\Users\\Fernan...', Array)
+#4 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(376): Cake\View\View->_renderElement('C:\\Users\\Fernan...', Array, Array)
+#5 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\tmp\add-ctp.php(16): Cake\View\View->element('form')
+#6 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(179): include('C:\\Users\\Fernan...')
+#7 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(788): Bake\View\BakeView->_evaluate('C:\\Users\\Fernan...', Array)
+#8 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(117): Cake\View\View->_render('C:\\Users\\Fernan...')
+#9 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php(86): Bake\View\BakeView->render('Template/add')
+#10 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(402): Bake\Shell\Task\BakeTemplateTask->generate('Template/add')
+#11 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(151): Bake\Shell\Task\TemplateTask->getContent('add', Array)
+#12 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(252): Bake\Shell\Task\TemplateTask->main('alternatives')
+#13 [internal function]: Bake\Shell\Task\TemplateTask->all()
+#14 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#15 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\Shell.php(386): Cake\Console\Shell->runCommand(Array, false)
+#16 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#17 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#18 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#19 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#20 {main}
+
+
+2015-08-12 15:39:05 Error: [LogicException] You cannot extend an element which does not exist (C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\plugins\SAD360\src\Template\Bake\Element\../Layout/TwitterBootstrap/dashboard.ctp).
+Stack Trace:
+#0 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\tmp\Bake-Element-form-ctp.php(10): Cake\View\View->extend('../Layout/Twitt...')
+#1 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(179): include('C:\\Users\\Fernan...')
+#2 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(788): Bake\View\BakeView->_evaluate('C:\\Users\\Fernan...', Array)
+#3 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(1155): Cake\View\View->_render('C:\\Users\\Fernan...', Array)
+#4 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(376): Cake\View\View->_renderElement('C:\\Users\\Fernan...', Array, Array)
+#5 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\tmp\add-ctp.php(16): Cake\View\View->element('form')
+#6 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(179): include('C:\\Users\\Fernan...')
+#7 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(788): Bake\View\BakeView->_evaluate('C:\\Users\\Fernan...', Array)
+#8 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(117): Cake\View\View->_render('C:\\Users\\Fernan...')
+#9 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php(86): Bake\View\BakeView->render('Template/add')
+#10 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(402): Bake\Shell\Task\BakeTemplateTask->generate('Template/add')
+#11 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(151): Bake\Shell\Task\TemplateTask->getContent('add', Array)
+#12 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(252): Bake\Shell\Task\TemplateTask->main('alternatives')
+#13 [internal function]: Bake\Shell\Task\TemplateTask->all()
+#14 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#15 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\Shell.php(386): Cake\Console\Shell->runCommand(Array, false)
+#16 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#17 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#18 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#19 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#20 {main}
+
+
+2015-08-12 15:40:02 Error: [LogicException] You cannot extend an element which does not exist (C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\plugins\SAD360\src\Template\Bake\Element\../Layout/TwitterBootstrap/dashboard.ctp).
+Stack Trace:
+#0 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\tmp\Bake-Element-form-ctp.php(10): Cake\View\View->extend('../Layout/Twitt...')
+#1 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(179): include('C:\\Users\\Fernan...')
+#2 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(788): Bake\View\BakeView->_evaluate('C:\\Users\\Fernan...', Array)
+#3 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(1155): Cake\View\View->_render('C:\\Users\\Fernan...', Array)
+#4 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(376): Cake\View\View->_renderElement('C:\\Users\\Fernan...', Array, Array)
+#5 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\tmp\add-ctp.php(16): Cake\View\View->element('form')
+#6 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(179): include('C:\\Users\\Fernan...')
+#7 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(788): Bake\View\BakeView->_evaluate('C:\\Users\\Fernan...', Array)
+#8 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(117): Cake\View\View->_render('C:\\Users\\Fernan...')
+#9 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php(86): Bake\View\BakeView->render('Template/add')
+#10 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(402): Bake\Shell\Task\BakeTemplateTask->generate('Template/add')
+#11 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(151): Bake\Shell\Task\TemplateTask->getContent('add', Array)
+#12 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(252): Bake\Shell\Task\TemplateTask->main('alternatives')
+#13 [internal function]: Bake\Shell\Task\TemplateTask->all()
+#14 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#15 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\Shell.php(386): Cake\Console\Shell->runCommand(Array, false)
+#16 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#17 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#18 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#19 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#20 {main}
+
+
+2015-08-12 15:41:26 Error: [LogicException] You cannot extend an element which does not exist (C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\plugins\SAD360\src\Template\Bake\Element\../Layout/TwitterBootstrap/dashboard.ctp).
+Stack Trace:
+#0 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\tmp\Bake-Element-form-ctp.php(10): Cake\View\View->extend('../Layout/Twitt...')
+#1 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(179): include('C:\\Users\\Fernan...')
+#2 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(788): Bake\View\BakeView->_evaluate('C:\\Users\\Fernan...', Array)
+#3 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(1155): Cake\View\View->_render('C:\\Users\\Fernan...', Array)
+#4 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(376): Cake\View\View->_renderElement('C:\\Users\\Fernan...', Array, Array)
+#5 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\tmp\add-ctp.php(16): Cake\View\View->element('form')
+#6 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(179): include('C:\\Users\\Fernan...')
+#7 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\View\View.php(788): Bake\View\BakeView->_evaluate('C:\\Users\\Fernan...', Array)
+#8 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\View\BakeView.php(117): Cake\View\View->_render('C:\\Users\\Fernan...')
+#9 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php(86): Bake\View\BakeView->render('Template/add')
+#10 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(402): Bake\Shell\Task\BakeTemplateTask->generate('Template/add')
+#11 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(151): Bake\Shell\Task\TemplateTask->getContent('add', Array)
+#12 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php(252): Bake\Shell\Task\TemplateTask->main('alternatives')
+#13 [internal function]: Bake\Shell\Task\TemplateTask->all()
+#14 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#15 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\Shell.php(386): Cake\Console\Shell->runCommand(Array, false)
+#16 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#17 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#18 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#19 C:\Users\FernandoH3116_00\Documents\NetBeansProjects\sad360\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#20 {main}
+
+

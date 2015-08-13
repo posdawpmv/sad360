@@ -1,0 +1,78 @@
+/*
+* Formatação para adequação do tema visual do sistema
+* Autor: Fernando
+*/
+
+html, body{
+    height: 100%;
+    min-height: 100%;
+}
+
+body{
+    background-color: #FDFDFD;
+}
+
+.userdata a{
+    margin-bottom: 1em;
+}
+
+.user-control{
+    display: inline;
+    margin: 1em;
+}
+
+.dashboard-card {
+    margin: 0;
+    padding: 0.8em;
+    color: white;
+    margin-bottom: 1em;
+}
+
+.dashboard-card-icon {
+    width: 30%;
+}
+
+.dashboard-card-details {
+    width: 59%;
+}
+
+.dashboard-card-icon, .dashboard-card-details {
+    display: inline-block;
+}
+
+.dashboard-card-icon span{
+    font-size: 4em;
+}
+
+.dashboard-card-details {
+    text-align: right;    
+}
+
+.dashboard-card-details h1{
+    font-size: 4em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.row-no-gutters [class*="col-"]{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.col-no-gutter-left{
+   padding-left: 0 !important;
+   margin: 0 !important;
+}
+
+.col-no-gutter-right{
+   padding-right: 0 !important;
+   margin: 0 !important;
+}
+
+footer .jumbotron {
+    margin: 0;
+}
+
+#nav-rodape a {
+    display: block;
+}
